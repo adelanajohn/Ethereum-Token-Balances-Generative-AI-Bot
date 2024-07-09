@@ -52,7 +52,7 @@ Now that we have discussed how to retrieve blockchain data using AMB Query, we d
 ![Architecture diagram](images/architecture.png)
 
 ### 4.1 Model Selection
-We reviewed a selection of models with consideration for use cases, model attributes, maximum tokens, cost, accuracy, performance, and languages. Based on this, we selected Claude-3 Sonnet as best suited for this use case as it strikes a balance between intelligence and speed, and it optimizes on speed and cost.
+A selection of models was reviewed, with consideration for use cases, model attributes, maximum tokens, cost, accuracy, performance, and supported languages. Based on this, Anthropic Claude-3 Sonnet was selected as best suited for this use case, as it strikes a balance between intelligence and speed, and it optimizes on speed and cost.
 
 ### 4.2 Function Calling
 Function calling allows LLMs to connect to external tools. This interoperability, achieved through the integration of LLMs with user-defined functions or Application Programming Interfaces (APIs), empowers users to develop tailored applications that address unique scenarios and practical challenges. Anthropic provides supports for [function calling](https://docs.anthropic.com/en/docs/tool-use).
