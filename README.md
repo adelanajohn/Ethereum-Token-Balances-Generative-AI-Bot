@@ -4,7 +4,7 @@ This tool retrieves token balances from an Ethereum wallet addresses.
 
 ## 1. What is the Ethereum Token Balances Generative AI Bot 🤷?
 
-Generative AI offer many benefits for enterprises, such as the ability to improve customer experience, employee productivity, content creation, and business operations. However generative AI is unable to directly access enterprise datasets and customer transactional data. For instance, trying to retrieve blockchain data like token balances from an Ethereum contract address using the **[Anthropic](https://www.anthropic.com/claude target="_blank") Claude 3 Sonnet** large language model (LLM) to may give a response such as the following:
+Generative AI offer many benefits for enterprises, such as the ability to improve customer experience, employee productivity, content creation, and business operations. However generative AI is unable to directly access enterprise datasets and customer transactional data. For instance, trying to retrieve blockchain data like token balances from an Ethereum contract address using the **[Anthropic](https://www.anthropic.com/claude){:target="_blank"} Claude 3 Sonnet** large language model (LLM) to may give a response such as the following:
 
 ![Bot response](images/bot_response.png)
 
