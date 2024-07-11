@@ -63,3 +63,6 @@ You first need to set up an AWS account and configure your [AWS Identity and Acc
 ## 5. Conclusion 🌅
 
 This guide walks you through integrating Anthropic's Claude 3 Sonnet Large Language Model (LLM) with an external API (AMB Query ListTokenBalances API) to retrieve live blockchain data and produce insightful answers. By creating custom functions and combining the invocation and handling of outcomes through LLMs like Anthropic's Claude 3 Sonnet, a wide array of potential applications becomes accessible for personal use, and business operations.
+
+## Note
+This project is intended for educational purposes only and not for production use.
